@@ -1,0 +1,2 @@
+Cookie: file on local storage
+Session: file on server, store user infomation
